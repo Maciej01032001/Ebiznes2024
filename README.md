@@ -17,7 +17,7 @@ Kod: https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie1
 
 Zadanie 2
 
-- [ ] 3.0 wymaganie 1 : https://github.com/Maciej01032001/Ebiznes2024/commit/fb287ddc7a59d3128b218f30c66b777ffa07f242
+- [x] 3.0 wymaganie 1 : https://github.com/Maciej01032001/Ebiznes2024/commit/fb287ddc7a59d3128b218f30c66b777ffa07f242
 
 - [ ] 3.5 wymaganie 2 Link do commita 2
 
