@@ -12,7 +12,7 @@ Zadanie 1
 
 - [ ] 5.0 wymaganie 5 Link do commita 5
 
-Kod: 
+Kod: https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie1
 
 
 Zadanie 2
