@@ -13,6 +13,7 @@ Zadanie 1
 - [ ] 5.0 dodać konfigurację docker-compose : Link do c 5
 
 Kod: https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie1
+Link do Dockerhuba: https://hub.docker.com/r/maciejb2001/nowy_build
 
 
 Zadanie 2
