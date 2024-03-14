@@ -16,6 +16,8 @@ Kod: [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie1)
 
 Link do Dockerhuba: [Link](https://hub.docker.com/r/maciejb2001/nowy_build)
 
+Link do Dema: [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie1.mp4)
+
 
 Zadanie 2
 
