@@ -23,14 +23,15 @@ Zadanie 2
 
 - [x] 3.0  Należy stworzyć kontroler do Produktów : [Link](https://github.com/Maciej01032001/Ebiznes2024/commit/fb287ddc7a59d3128b218f30c66b777ffa07f242)
 
-- [x] 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD [Link]
+- [x] 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie2/Ebiznes)
 
-- [x] 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka [Link]
+- [x] 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie2/Ebiznes)
 
 - [ ] ~~Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok~~
 
 - [ ] ~~Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD~~
 
-Kod: 
+Kod: [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie2/Ebiznes)
 
-Demo: <video src='https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20Home.mp4' width=180> </video>
+Demo:  [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20Home.mp4) oraz [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20CRUD.mp4)
+
