@@ -32,3 +32,5 @@ Zadanie 2
 - [ ] ~~Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD~~
 
 Kod: 
+
+Demo: <video src='https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20Home.mp4' width=180/>
