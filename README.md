@@ -21,14 +21,14 @@ Link do Dema: [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/dem
 
 Zadanie 2
 
-- [x] 3.0 wymaganie 1 : [Link](https://github.com/Maciej01032001/Ebiznes2024/commit/fb287ddc7a59d3128b218f30c66b777ffa07f242)
+- [x] 3.0  Należy stworzyć kontroler do Produktów : [Link](https://github.com/Maciej01032001/Ebiznes2024/commit/fb287ddc7a59d3128b218f30c66b777ffa07f242)
 
-- [ ] 3.5 wymaganie 2 Link do commita 2
+- [x] 3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD [Link]
 
-- [ ] 4.0 wymaganie 3 Link do commita 3
+- [x] 4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka [Link]
 
-- [ ] 4.5 wymaganie 4 Link do commita 4
+- [ ] ~~Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok~~
 
-- [ ] 5.0 wymaganie 5 Link do commita 5
+- [ ] ~~Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD~~
 
 Kod: 
