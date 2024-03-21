@@ -1,1 +1,0 @@
-Do kazdego zadania nalezy przygotowac demo za pomocą https://obsproject.com/, a film (skompresowany) nalezy umiescic w katalogu demos.

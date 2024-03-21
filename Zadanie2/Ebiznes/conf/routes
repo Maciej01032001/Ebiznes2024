@@ -5,6 +5,25 @@
 
 # An example controller showing a sample home page
 GET     /                           controllers.HomeController.index()
-
-# Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+
+#produkty
+GET     /products               controllers.HomeController.getAll
+GET     /products/:index        controllers.HomeController.getProductByIndex(index: Int)
+POST    /products               controllers.HomeController.addProduct
+PUT     /products/:index        controllers.HomeController.updateProductByIndex(index: Int)
+DELETE  /products/:index        controllers.HomeController.deleteProductByIndex(index: Int)
+
+#koszyk
+GET     /cart               controllers.CartController.getAll
+GET     /cart/:index        controllers.CartController.getProductByIndex(index: Int)
+POST    /cart               controllers.CartController.addProduct
+PUT     /cart/:index        controllers.CartController.updateProductByIndex(index: Int)
+DELETE  /cart/:index        controllers.CartController.deleteProductByIndex(index: Int)
+
+#kategorie
+GET     /category               controllers.CategoryController.getAll
+GET     /category/:index        controllers.CategoryController.getProductByIndex(index: Int)
+POST    /category               controllers.CategoryController.addProduct
+PUT     /category/:index        controllers.CategoryController.updateProductByIndex(index: Int)
+DELETE  /category/:index        controllers.CategoryController.deleteProductByIndex(index: Int)
