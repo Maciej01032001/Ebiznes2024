@@ -33,5 +33,5 @@ Zadanie 2
 
 Kod: [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie2/Ebiznes)
 
-Demo:  [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20Home.mp4) oraz [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Demo%20Scala%20CRUD.mp4)
+Demo:  [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie2.mp4)
 
