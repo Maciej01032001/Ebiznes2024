@@ -35,3 +35,18 @@ Kod: [Link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie2/Ebi
 
 Demo:  [Link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie2.mp4)
 
+Zadanie 3
+
+- [x] 3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord [link](https://github.com/Maciej01032001/Ebiznes2024/commit/036d12b9fe179f7de2a6d4352535f802f8a7e010)
+
+- [x] 3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/036d12b9fe179f7de2a6d4352535f802f8a7e010)
+
+- [x] 4.0 Zwróci listę kategorii na określone żądanie użytkownika [link](https://github.com/Maciej01032001/Ebiznes2024/commit/036d12b9fe179f7de2a6d4352535f802f8a7e010)
+
+- [ ] ~~4.5 Zwróci listę produktów wg żądanej kategorii~~
+
+- [ ] ~~5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod~~
+
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie3/Ebiznes3)
+
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie3-Ktor.mp4)
