@@ -82,3 +82,19 @@ Zadanie 5
 Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie5)
 
 Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie5-React.mp4)
+
+Zadanie 6
+
+- [x] 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d179ce7beb4aa7dd041a22845c9e454077aaa2e7)
+
+- [x] 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d179ce7beb4aa7dd041a22845c9e454077aaa2e7)
+
+- [ ] 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami
+
+- [ ] 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+
+- [ ] 5.0 Należy uruchomić testy funkcjonalne na Browserstacku 
+
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie6)
+
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/demos/Ebiznes-zadanie6)
