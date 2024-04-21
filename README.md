@@ -89,11 +89,11 @@ Zadanie 6
 
 - [x] 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 50 asercji [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d179ce7beb4aa7dd041a22845c9e454077aaa2e7)
 
-- [ ] 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami
+- [x] 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego projektu z minimum 50 asercjami [link](https://github.com/Maciej01032001/Ebiznes2024/commit/ade698ac4307d93e568bdb4f0c6ce201d3ecb87d)
 
-- [ ] 4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint
+- [ ] ~~4.5 Należy dodać testy API, należy pokryć wszystkie endpointy z minimum jednym scenariuszem negatywnym per endpoint~~
 
-- [ ] 5.0 Należy uruchomić testy funkcjonalne na Browserstacku 
+- [ ] ~~5.0 Należy uruchomić testy funkcjonalne na Browserstacku~~
 
 Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie6)
 
