@@ -5,6 +5,7 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 const cors = require('cors');
 const app = express();
+app.disable("x-powered-by");
 
 const corsOptions = {
     origin: /http:\/\/localhost:[0-9]+/,
