@@ -6,7 +6,11 @@ const logger = require('morgan');
 const cors = require('cors');
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+    origin: /http:\/\/localhost:[0-9]+/,
+};
+
+app.use(cors(corsOptions));
 
 const products = [
     {id: 1, name: 'Krzeslo', price: 100},
@@ -42,7 +46,7 @@ app.use(function (req, res, next) {
     next(createError(404));
 });
 
-app.use(function(err, req, res) {
+app.use(function (err, req, res) {
     console.error(err.stack);
     res.status(500).send('Something broke!');
 });
