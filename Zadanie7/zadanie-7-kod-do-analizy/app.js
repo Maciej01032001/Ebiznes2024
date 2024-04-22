@@ -8,7 +8,7 @@ const app = express();
 app.disable("x-powered-by");
 
 const corsOptions = {
-    origin: /http:\/\/localhost:[0-9]+/,
+    origin: /http:\/\/localhost:\d+/,
 };
 
 app.use(cors(corsOptions));
