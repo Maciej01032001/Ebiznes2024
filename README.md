@@ -98,3 +98,19 @@ Zadanie 6
 Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie6)
 
 Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/demos/Ebiznes-zadanie6)
+
+Zadanie 7
+
+- [ ] 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita
+
+- [ ] 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej)
+
+- [ ] 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej)
+
+- [ ] 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)
+
+- [ ] 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej
+
+Kod: [link]()
+
+Demo: [link]()
