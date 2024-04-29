@@ -1,0 +1,33 @@
+#!/bin/bash
+
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep "\.js$")
+
+if [[ "$STAGED_FILES" = "" ]]; then
+  echo -e "Nothing staged\n"
+  exit 0
+fi
+
+OK=true
+
+for FILE in $STAGED_FILES
+do
+  eslint "$FILE"
+
+  if [[ "$?" == 0 ]]; then
+    echo -e "OK: $FILE \n"
+  else
+    echo -e "FAIL: $FILE \n"
+    OK=false
+  fi
+done
+
+echo -e "\n I'm done validating\n"
+
+if ! $OK; then
+  echo -e "Some files need your attention, please check them\n"
+  exit 1
+else
+  echo -e "Everything is OK with your commit\n"
+fi
+
+exit $?

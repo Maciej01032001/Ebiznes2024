@@ -1,6 +1,10 @@
 
 Zadanie 7
 
+There are two lint files: 
+- one uses husky and should be put inside package.json, it's the prettier solution
+- second is basicly a bash script should be put into .git catalouge as pre-commit
+
 Badges:
 
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=maciej01032001-1_Ebiznes2024&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=maciej01032001-1_Ebiznes2024)
