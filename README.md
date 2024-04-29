@@ -101,16 +101,16 @@ Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/demos/Ebizn
 
 Zadanie 7
 
-- [ ] 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita
+- [x] 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita [link](https://github.com/Maciej01032001/Ebiznes2024/commit/184b871af0b68cc751341fdaad941950fb4bd9eb)
 
-- [ ] 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej)
+- [x] 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod aplikacji serwerowej) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/184b871af0b68cc751341fdaad941950fb4bd9eb)
 
-- [ ] 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej)
+- [x] 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod aplikacji serwerowej) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/184b871af0b68cc751341fdaad941950fb4bd9eb)
 
-- [ ] 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej)
+- [x] 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa w kodzie w Sonarze (kod aplikacji serwerowej) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/184b871af0b68cc751341fdaad941950fb4bd9eb)
 
-- [ ] 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej
+- ~~[ ] 5.0 Należy wyeliminować wszystkie błędy oraz zapaszki w kodzie aplikacji klienckiej~~
 
-Kod: [link]()
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie7)
 
-Demo: [link]()
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie7-SonarCloud.mp4)
