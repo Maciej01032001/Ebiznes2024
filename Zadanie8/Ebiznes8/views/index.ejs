@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <p><%= message %></p>
+    <form action="/" method="POST">
+
+      <label for="login">Login:</label>
+      <input type="text" id="login" name="login" required><br>
+
+      <label for="password">Password:</label>
+      <input type="text" id="password" name="password" required><br>
+
+      <button type="submit">Submit</button>
+    </form>
+  <p>Don't have an account yet?</p>
+    <p>Register now: <a href="/register">Register</a></p>
+  </body>
+</html>
