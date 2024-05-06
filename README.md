@@ -114,3 +114,19 @@ Zadanie 7
 Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie7)
 
 Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie7-SonarCloud.mp4)
+
+Zadanie 8
+
+- [x] 3.0 logowanie przez aplikację serwerową (bez Oauth2) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d72ffda82f6de2ca9bd000c9e1f96719df1e445b)
+
+- [x] 3.5 rejestracja przez aplikację serwerową (bez Oauth2) [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d72ffda82f6de2ca9bd000c9e1f96719df1e445b)
+
+- [ ] ~~4.0 logowanie via Google OAuth2~~
+
+- [ ] ~~4.5 logowanie via Facebook lub Github OAuth2~~
+
+- [ ] ~~5.0 zapisywanie danych logowania OAuth2 po stronie serwera~~
+
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie8/Ebiznes8)
+
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie8-Oauth.mp4)
