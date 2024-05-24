@@ -130,3 +130,20 @@ Zadanie 8
 Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie8/Ebiznes8)
 
 Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie8-Oauth.mp4)
+
+Zadanie 9
+
+- [x] 3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d471d196b7bbb2a61f44298a5ae036abf0ae9492)
+
+- [x] 3.5 należy stworzyć interfejs frontowy dla użytkownika, który komunikuje się z serwisem; odpowiedzi powinny być wysyałen do frontendowego interfejsu [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d471d196b7bbb2a61f44298a5ae036abf0ae9492)
+
+- [x] 4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy [link](https://github.com/Maciej01032001/Ebiznes2024/commit/d471d196b7bbb2a61f44298a5ae036abf0ae9492)
+
+- [ ] ~~4.5 filtrowanie po zagadnieniach związanych ze sklepem (np. ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT~~
+
+- [ ] ~~5.0 filtrowanie odpowiedzi po sentymencie~~
+
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie9/ebiznes9)
+
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie9-Ollama.mp4)
+
