@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Ollama chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        #response {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simple Ollama chat</h1>
+    <form id="promptForm">
+        <label for="prompt">Enter a prompt:</label>
+        <input type="text" id="prompt" name="prompt" required>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="response"></div>
+
+    <script>
+
+    const helloMessages = [
+            "Hello there!",
+            "Greetings!",
+            "Welcome!",
+            "Hey!",
+            "Howdy!"
+        ];
+
+    const goodbyeMessages = [
+            "Farewell!",
+            "Take care!",
+            "Catch you later!",
+            "So long!",
+            "Adios!"
+    ];
+
+    const goodbyePrompts = [
+            "bye",
+            "goodbye",
+            "exit"
+    ];
+
+
+
+        function getRandomHelloMessage() {
+            const randomIndex = Math.floor(Math.random() * helloMessages.length);
+            return helloMessages[randomIndex];
+        }
+
+        function getRandomGoodbyeMessage() {
+            const randomIndex = Math.floor(Math.random() * helloMessages.length);
+            return goodbyeMessages[randomIndex];
+        }
+
+        document.getElementById('response').innerText = getRandomHelloMessage();
+
+        document.getElementById('promptForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const prompt = document.getElementById('prompt').value;
+            console.log(prompt);
+            if (goodbyePrompts.includes(prompt)) {
+                document.getElementById('response').innerText = getRandomGoodbyeMessage();
+            }
+            else {
+                fetch('/api/prompt', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ prompt: prompt })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('response').innerText = data.response;
+                });
+            }
+        });
+    </script>
+</body>
+</html>
