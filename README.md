@@ -147,3 +147,20 @@ Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie9/ebi
 
 Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie9-Ollama.mp4)
 
+Zadanie 10
+
+- [x] 3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze [link](https://github.com/Maciej01032001/Ebiznes2024/commit/287a1793bec4dbf6be7b158a040d4bb388ab93c9)
+
+- [ ] ~~3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji (np. via fatjar)~~
+
+- [ ] ~~4.0 Dodać notyfikację mailową o zbudowaniu aplikacji~~
+
+- [ ] ~~4.5 Dodać krok z deploymentem aplikacji serwerowej oraz klienckiej na chmurę~~
+
+- [ ] ~~5.0 Dodać uruchomienie regresyjnych testów automatycznych (funkcjonalnych) jako krok w Actions~~
+
+Kod: [link](https://github.com/Maciej01032001/Ebiznes2024/tree/main/Zadanie10)
+
+Demo: [link](https://github.com/Maciej01032001/Ebiznes2024/blob/main/demos/Ebiznes-zadanie10-Azure.mp4)
+
+
